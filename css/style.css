@@ -1,3 +1,18 @@
+body{
+    width: 90%;
+    margin: auto;
+    background-color: rgb(145, 246, 125);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: darkgreen;
+}
+
+img{
+    width: 500px;
+    text-align: center;
+}
 
 nav:first-of-type{
     background-color:#54cc39;
@@ -17,14 +32,4 @@ main{
     margin: 20px;
     position: sticky;
     height: 680px;
-}
-body{
-    width: 90%;
-    margin: auto;
-    background-color: wheat;
-}
-h1{
-    text-align: center;
-    text-decoration: underline;
-    color: rgb(244, 190, 91);
 }
