@@ -1,0 +1,10 @@
+body{
+    width: 90%;
+    margin: auto;
+    background-color: wheat;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(244, 190, 91);
+}
