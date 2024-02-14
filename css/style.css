@@ -1,6 +1,6 @@
 
 nav:first-of-type{
-    background-color:#F6E244;
+    background-color:#54cc39;
     font-size: large;
     padding: 20px;
 }
@@ -11,7 +11,7 @@ nav  a{
     color: #4E7B09;
 }
 main{
-    background-color: #adadad;
+    background-color: #9affa2;
     float: right;
     width: 85%;
     margin: 20px;
