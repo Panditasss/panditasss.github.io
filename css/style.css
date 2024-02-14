@@ -1,0 +1,18 @@
+nav:first-of-type{
+    background-color:#F6E244;
+    font-size: large;
+    padding: 20px;
+}
+nav  a{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 40px;
+    color: #4E7B09;
+}
+main{
+    background-color: #adadad;
+    float: right;
+    width: 85%;
+    margin: 20px;
+    position: sticky;
+    height: 680px;
