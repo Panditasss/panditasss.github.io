@@ -13,13 +13,13 @@ h1{
 
 img{
     width: 500px;
-    text-align: center;
 }
 
 nav:first-of-type{
     background-color:#54cc39;
     font-size: large;
     padding: 20px;
+    text-align: center;
 }
 nav  a{
     text-transform: uppercase;
