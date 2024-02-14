@@ -28,3 +28,8 @@ h1{
     text-decoration: underline;
     color: rgb(244, 190, 91);
 }
+
+img{
+    width: 500px;
+    text-align: center;
+}
