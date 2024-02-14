@@ -1,3 +1,4 @@
+
 nav:first-of-type{
     background-color:#F6E244;
     font-size: large;
@@ -16,3 +17,14 @@ main{
     margin: 20px;
     position: sticky;
     height: 680px;
+}
+body{
+    width: 90%;
+    margin: auto;
+    background-color: wheat;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(244, 190, 91);
+}
