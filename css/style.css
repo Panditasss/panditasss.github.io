@@ -26,6 +26,9 @@ nav  a{
     padding: 40px;
     color: #4E7B09;
 }
+a:hover{
+    color: darkgreen;
+}
 main{
     background-color: #9affa2;
     width: 85%;
