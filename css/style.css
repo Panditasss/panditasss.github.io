@@ -14,6 +14,7 @@ img{
     width:  10%;
 }
 
+
 nav:first-of-type{
     background-color:#12372A;
     font-size: large;
@@ -30,9 +31,35 @@ a:hover{
     text-shadow:2px  2px 5px #FBFADA;
 }
 main{
-    
-   
     margin: auto;
     position: sticky;
-    height: 680px;
+  
+}
+#informacion-basica{
+    text-align: center;
+}
+#foto1{
+    display: inline-block;
+    width: 20%;
+    border-radius: 10%;
+    box-shadow:  0px 0px  20px #12372A;
+
+}
+#foto1:hover{
+    box-shadow:  0px 0px  20px #329874;
+}
+#foto2{
+    display: inline-block;
+    width: 20%;
+    border-radius: 10%;
+    box-shadow:  0px 0px  20px #12372A;
+}
+#foto2:hover{
+    box-shadow:  0px 0px  20px #329874;
+}
+#texto{
+    display: inline-block;
+    width: 20%;
+    padding: 25px;
+    color: #FBFADA;
 }
