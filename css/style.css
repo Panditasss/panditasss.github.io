@@ -1,7 +1,7 @@
 body{
     width: 100%;
     margin: auto;
-    background-color: rgb(123, 247, 98);
+    background-color: #84e48c;
 }
 h1{
     text-align: center;
@@ -11,7 +11,7 @@ h1{
 }
 
 img{
-    width: 500px;
+    width:  10%;
 }
 
 nav:first-of-type{
@@ -30,8 +30,8 @@ a:hover{
     color: black;
 }
 main{
-    background-color: #84e48c;
-    width: 85%;
+    
+   
     margin: auto;
     position: sticky;
     height: 680px;
