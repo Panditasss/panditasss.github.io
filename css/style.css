@@ -1,7 +1,7 @@
 body{
-    width: 90%;
+    width: 100%;
     margin: auto;
-    background-color: rgb(145, 246, 125);
+    background-color: rgb(123, 247, 98);
 }
 h1{
     text-align: center;
@@ -15,7 +15,7 @@ img{
 }
 
 nav:first-of-type{
-    background-color:#54cc39;
+    background-color:#a6a4a4;
     font-size: large;
     padding: 20px;
     text-align: center;
@@ -24,13 +24,13 @@ nav  a{
     text-transform: uppercase;
     text-decoration: none;
     padding: 40px;
-    color: #4E7B09;
+    color: white;
 }
 a:hover{
-    color: darkgreen;
+    color: black;
 }
 main{
-    background-color: #9affa2;
+    background-color: #84e48c;
     width: 85%;
     margin: auto;
     position: sticky;
