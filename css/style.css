@@ -1,11 +1,11 @@
 body{
     width: 100%;
     margin: auto;
-    background-color: #84e48c;
+    background-color: #436850;
 }
 h1{
     text-align: center;
-    color: darkgreen;
+    color: #FBFADA;
     padding: 20px;
     margin: 0;
 }
@@ -15,7 +15,7 @@ img{
 }
 
 nav:first-of-type{
-    background-color:#a6a4a4;
+    background-color:#12372A;
     font-size: large;
     padding: 20px;
     text-align: center;
@@ -24,10 +24,10 @@ nav  a{
     text-transform: uppercase;
     text-decoration: none;
     padding: 40px;
-    color: white;
+    color: #FBFADA;
 }
 a:hover{
-    color: black;
+    text-shadow:2px  2px 5px #FBFADA;
 }
 main{
     
