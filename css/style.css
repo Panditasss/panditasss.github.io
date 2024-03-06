@@ -119,24 +119,40 @@ footer{
         height: 300px;
       }
       
-      .item.silver {
+      .item.primero {
         background-image: url(../imagenes/Refugio1.jpeg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+
       }
       
-      .item.red {
+      .item.segundo {
         background-image: url(../imagenes/Refugio2.jpeg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
       }
       
-      .item.green {
+      .item.tercero {
         background-image: url(../imagenes/Refugio3.jpeg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
       }
       
-      .item.blue {
+      .item.cuarto {
         background-image: url(../imagenes/Regufio4.jpeg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
       }
       
-      .item.yellow {
+      .item.quinto {
         background-image: url(../imagenes/Refugio5.jpeg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
       }
       
       
