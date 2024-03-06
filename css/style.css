@@ -13,6 +13,10 @@ h1{
 img{
     width:  5%;
 }
+#logo{
+    float: inline-start;
+    margin-top: -30px;
+}
 
 
 nav:first-of-type{
@@ -20,12 +24,15 @@ nav:first-of-type{
     font-size: large;
     padding: 20px;
     text-align: center;
+    
+
 }
 nav  a{
     text-transform: uppercase;
     text-decoration: none;
     padding: 40px;
     color: #FBFADA;
+    
 }
 a:hover{
     text-shadow:2px  2px 5px #FBFADA;
