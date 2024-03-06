@@ -34,13 +34,21 @@ nav  a{
     color: #FBFADA;
     
 }
-a:hover{
+nav a:hover{
     text-shadow:2px  2px 5px #FBFADA;
 }
 main{
     margin: auto;
     position: sticky;
   
+}
+footer{
+    background-color: #12372A;
+    color: white;
+    text-align: center;
+}
+footer i:hover{
+    color: rgb(221, 245, 99);
 }
 #informacion-basica{
     text-align: center;
