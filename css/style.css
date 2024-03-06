@@ -109,6 +109,11 @@ footer{
      
       transform: scale(1.2);
     }
+    
+#mapa{
+    margin: 100px;
+}
+
     .item {
         width: 500px;
         height: 300px;
