@@ -9,6 +9,12 @@ h1{
     padding: 20px;
     margin: 0;
 }
+p{
+    color: white;
+    text-align: center;
+    margin: 50px;
+    background-color:#12372A
+}
 
 img{
     width:  5%;
