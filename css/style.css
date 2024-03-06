@@ -98,7 +98,7 @@ footer{
     height: 60px;
     line-height: 60px;
     text-align: center;
-    background: #416f35;
+    background-color: #12372A;
     color: white;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
@@ -113,3 +113,56 @@ footer{
 #mapa{
    margin: auto;
 }
+
+    .item {
+        width: 500px;
+        height: 300px;
+      }
+      
+      .item.silver {
+        background-image: url(../imagenes/Refugio1.jpeg);
+      }
+      
+      .item.red {
+        background-image: url(../imagenes/Refugio2.jpeg);
+      }
+      
+      .item.green {
+        background-image: url(../imagenes/Refugio3.jpeg);
+      }
+      
+      .item.blue {
+        background-image: url(../imagenes/Regufio4.jpeg);
+      }
+      
+      .item.yellow {
+        background-image: url(../imagenes/Refugio5.jpeg);
+      }
+      
+      
+      .carousel {
+        margin-top: 100px;
+      }
+      
+      .carousel .slick-slide {
+        filter: blur(5px);
+        transition: ease .3s;
+        transform: scale(.8, .8);
+      }
+      
+      .carousel .slick-slide.slick-center {
+        filter: none;
+        transform: scale(1, 1);
+      }
+      
+      .arrows {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+      }
+      
+      .arrows i {
+        margin: 10px;
+        font-size: 2em;
+        cursor: pointer;
+      }
