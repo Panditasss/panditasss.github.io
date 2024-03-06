@@ -5,11 +5,16 @@ body{
     margin: auto;
     background-color: #436850;
 }
+header{
+  position: fixed;
+  z-index: 500;
+}
 h1{
     text-align: center;
     color: #FBFADA;
     padding: 20px;
     margin: 0;
+    padding-top: 100px;
 }
 p{
     color: white;
@@ -36,13 +41,13 @@ figure{
 }
 figcaption{
   text-align: center;
-  font-size: medium;
+  font-size: 1.2vw;
+  color: white;
   font-weight: bold;
 }
 
 figure img{
-  width: 200px;
-  height: 200px;
+  width: 80%;
   border-radius: 10%;
   
 }
