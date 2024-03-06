@@ -144,11 +144,7 @@ text-align: center;
         background-size: cover;
         border-radius: 25px;
 
-      }
-      
-      
-     
-      
+      } 
       .carousel .slick-slide {
         filter: blur(5px);
         transition: ease .3s;
@@ -170,6 +166,4 @@ text-align: center;
         margin: 10px;
         font-size: 2em;
         cursor: pointer;
-      }
-      figure{
       }
