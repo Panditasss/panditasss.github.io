@@ -111,7 +111,15 @@ footer{
     }
     
 #mapa{
-    margin: 100px;
+    height: 350px;
+    width: 500px;
+  margin-left: 550px;
+  margin-top: 20px;
+   
+}
+#ContactoLetra{
+color: white;
+text-align: center;
 }
 
     .item {
