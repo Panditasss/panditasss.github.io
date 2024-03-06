@@ -15,6 +15,35 @@ p{
     margin: 50px;
     background-color:#12372A
 }
+section{
+  text-align: center;
+}
+figure{
+  width: 15%;
+  display: inline-block;
+    justify-content: center;
+    padding: 20px; margin: 0px;
+    border: 2px solid #12372A;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 50px;
+    border-radius: 10%;
+    box-shadow: 0px 0px 10px #12372A;
+    text-align: center;
+    background-color: #FBFADA;
+}
+figcaption{
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+}
+
+figure img{
+  width: 200px;
+  height: 200px;
+  border-radius: 10%;
+  
+}
 
 img{
     width:  5%;
@@ -177,3 +206,4 @@ text-align: center;
         font-size: 2em;
         cursor: pointer;
       }
+
