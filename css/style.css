@@ -5,6 +5,10 @@ body{
     margin: auto;
     background-color: #436850;
 }
+header{
+  position: fixed;
+  z-index: 500;
+}
 h1{
     text-align: center;
     color: #FBFADA;
