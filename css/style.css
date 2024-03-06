@@ -68,7 +68,7 @@ footer{
     min-width: 500px;
     display: flex;
     justify-content: center;
-       
+    justify-content: space-evenly;
     }
     
 .buttons a {
@@ -153,9 +153,7 @@ text-align: center;
       }
       
       
-      .carousel {
-        margin-top: 100px;
-      }
+     
       
       .carousel .slick-slide {
         filter: blur(5px);
@@ -178,4 +176,6 @@ text-align: center;
         margin: 10px;
         font-size: 2em;
         cursor: pointer;
+      }
+      figure{
       }
