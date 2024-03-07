@@ -76,7 +76,7 @@ nav  a{
     text-transform: uppercase;
     text-decoration: none;
     padding: 40px;
-    color: #FBFADA;
+    color: rgb(251, 250, 218);
     
 }
 nav a:hover{
@@ -317,7 +317,7 @@ article h2{
         backface-visibility: hidden;
         border-radius: 10px;
         overflow: hidden;
-        transition: .5s;
+        transition: 1s;
     }
     
     .card .front {
@@ -326,7 +326,6 @@ article h2{
     }
     
     .card .front img {
-
         object-fit: cover;
         width: 100%;
         height: auto;
@@ -346,7 +345,7 @@ article h2{
     
     .card .back {
         transform: perspective(600px) rotateY(180deg);
-        background: rgb(3, 35, 54);
+        background: #17533e;
         color: #f3f3f3;
         display: flex;
         flex-direction: column;
@@ -358,11 +357,14 @@ article h2{
     .card .back h3 {
         font-size: 30px;
         letter-spacing: 2px;
+        margin-bottom: 0;
     }
     
     .card .back p {
-      margin-top: 0;
-    } 
+      margin: 5px;
+      border-radius: 10px;
+      text-align: justify;
+    }
     
     .card:hover .front {
         transform: perspective(600px) rotateY(180deg);
@@ -370,4 +372,8 @@ article h2{
     
     .card:hover .back {
         transform: perspective(600px) rotateY(360deg);
+    }
+    .cantidadNumerosStyle{
+      width: 10%;
+      margin-left: 6%;
     }
