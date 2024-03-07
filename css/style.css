@@ -262,10 +262,13 @@ p{
 }
 #maneras-contacto{
   margin-top: 50px;
-
+  background-color: #FBFADA;
 }
 #maneras-contacto img{
   width: 33%;
   height: 300px;
+  opacity: 60%;
+  background-size: cover;
+  border: 0px;
   
 }
