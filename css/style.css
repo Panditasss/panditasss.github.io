@@ -127,10 +127,9 @@ footer i:hover{
 #mapa{
     height: 350px;
     width: 500px;
-  margin-left:30px;
-  
-  margin-top: 20px;
-   
+    margin-left:30px;
+    margin-top: 20px;
+   margin-bottom: 40px;
 }
 #ContactoLetra{
 color: white;
