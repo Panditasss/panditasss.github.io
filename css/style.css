@@ -260,16 +260,47 @@ p{
   margin-bottom: 0px;
 }
 #maneras-contacto{
-  margin-top: 50px;
+  margin-top: 30px;
   background-color: #FBFADA;
+  
+  
 }
-#maneras-contacto img{
+article h2{
+
+  color: #12372A;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  
+}
+#establecimiento{
+  background: linear-gradient(rgba(251,250,218,0.4),rgba(251,250,218,0.4)),url(../imagenes/Refugio1.jpeg) no-repeat ;  
+  background-size: cover;
+  display: inline-block;
   width: 33%;
   height: 300px;
-  opacity: 60%;
-  background-size: cover;
-  border: 0px;
+  position: relative;
   
+
+}
+#telefono{
+  background: linear-gradient(rgba(251,250,218,0.4),rgba(251,250,218,0.4)),url(../imagenes/contacto-telefono.jpg) no-repeat ;  
+  background-size: cover;
+  display: inline-block;
+  width: 33.2%;
+  height: 300px;
+  position: relative;
+}
+#gmail{
+  background: linear-gradient(rgba(251,250,218,0.4),rgba(251,250,218,0.4)),url(../imagenes/contacto-gmail.jpg) no-repeat ;  
+  background-size: cover;
+  display: inline-block;
+  width: 33%;
+  height: 300px;
+  position: relative;
+
 }
       .card {
         position: relative;
