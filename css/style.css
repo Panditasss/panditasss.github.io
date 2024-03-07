@@ -342,3 +342,7 @@ p{
     .card:hover .back {
         transform: perspective(600px) rotateY(360deg);
     }
+    .cantidadNumerosStyle{
+      width: 10%;
+      margin-left: 6%;
+    }
