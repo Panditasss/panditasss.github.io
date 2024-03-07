@@ -295,7 +295,6 @@ p{
     }
     
     .card .front img {
-
         object-fit: cover;
         width: 100%;
         height: auto;
@@ -327,11 +326,14 @@ p{
     .card .back h3 {
         font-size: 30px;
         letter-spacing: 2px;
+        margin-bottom: 0;
     }
     
     .card .back p {
-      margin-top: 0;
-    } 
+      margin: 5px;
+      background: rgb(3, 35, 54);
+      text-align: justify;
+    }
     
     .card:hover .front {
         transform: perspective(600px) rotateY(180deg);
