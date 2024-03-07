@@ -305,7 +305,7 @@ article h2{
       .card {
         position: relative;
         display: inline-block;
-        width: 350px;
+        width: 20%;
         height: 400px;
         margin: 20px;
     }
