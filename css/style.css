@@ -96,9 +96,7 @@ footer i:hover{
     color: rgb(221, 245, 99);
 }
 
-footer{
-    background-color:#436850;
-}
+
 .buttons {
     padding: 10px;
     min-width: 500px;
@@ -114,8 +112,8 @@ footer{
     height: 50px;
     line-height: 50px;
     text-align: center;
-    background-color: #12372A;
-    color: white;
+    background-color: #FBFADA;
+    color: #12372A;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
     transition: all .4s ease-in-out;
@@ -404,5 +402,4 @@ article h2{
         overflow: auto;
         padding:  10px;
         }
-        
-      
+    
