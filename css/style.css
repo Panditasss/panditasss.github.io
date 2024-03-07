@@ -401,3 +401,9 @@ article h2{
         overflow: auto;
         padding:  10px;
         }
+        #bandera{
+          width: 2%;
+        }
+        #banderaA{
+          padding: 0px;
+        }
