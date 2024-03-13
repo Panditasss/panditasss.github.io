@@ -41,9 +41,23 @@
 
             <p id="ContactoLetra">Nos puedes encontrar en Las Gabias (Granada) y los Sábados tenemos un mercadillo solidario en
                 Tienda Animal (Centro Comercial Nevada).</p>
-            <section>
-
-                <iframe id="mapa" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3782.40465003893!2d-3.6803189344980782!3d37.13818036385608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDA4JzE4LjEiTiAzwrA0MCc1NC43Ilc!5e0!3m2!1ses!2ses!4v1709798239651!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <section id="formulario-mapa">
+                <article id="mapa">
+                    <iframe  src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3782.40465003893!2d-3.6803189344980782!3d37.13818036385608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDA4JzE4LjEiTiAzwrA0MCc1NC43Ilc!5e0!3m2!1ses!2ses!4v1709798239651!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </article>
+                <article class="contenedor-formulario">
+                    <h1>Por favor, ingrese sus datos </h1>
+                        <form>
+                            <input class="campo-texto" type="text" name="nombre" placeholder="Nombre" maxlength="20" required="" /> 
+                            <input class="campo-texto" type="text" name="apellido" placeholder="Apellido" maxlength="20" required="" /> 
+                            <input class="campo-texto" type="text" name="usuario" placeholder="Nombre de usuario" maxlength="20" required="" /> 
+                            <input class="campo-texto" type="email" name="email" placeholder="Su email" maxlength="50" required="" />
+                            <textarea class="campo-texto" rows="4" cols="30" required="" placeholder="Mensaje"></textarea>
+                            <input type="reset" value="Limpiar" class="borrar" />
+                            <input type="submit" value="Enviar" class="submit" />
+                            
+                        </form>
+                </article>      
             </section>
       
         </main>
